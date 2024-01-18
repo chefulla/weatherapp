@@ -21,7 +21,7 @@ Installation
 
     bash
 
-git clone [https://github.com/your-username/your-weather-app.git](https://github.com/chefulla/weatherapp)
+git clone https://github.com/chefulla/weatherapp
 
 Navigate to the project directory:
 
